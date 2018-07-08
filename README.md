@@ -1,4 +1,4 @@
-# Myapp
+# Angular http interceptor for setting query parameters
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
